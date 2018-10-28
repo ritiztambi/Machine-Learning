@@ -1,0 +1,14 @@
+#	For Problem 3
+	Compile files LDA1dProjection.py and LDA2dGaussGM.py
+	run function LDA1dProjection(filename,num_crossval)
+	run function LDA2DGaussGM(filename,num_crossval)
+	with filename (with path)= 'boston.csv' or 'digits.csv' respectively 
+	Assuming that for LDA1dProjection raw boston.csv file and not homeval50 is given as input
+
+
+#	For Problem 4
+	Compile files NaiveBayesGaussian.py and LogisticRegresiion.py
+	run function naiveBayesGaussian(filename,num_splits,train_percent)
+	run function logisticRegression(filename,num_splits,train_percent)
+	with filename (with path)= 'boston.csv' or 'digits.csv' respectively 
+	
