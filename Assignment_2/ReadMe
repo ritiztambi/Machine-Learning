@@ -1,0 +1,12 @@
+For Problem_1
+Either Uncomment the main function and change parameters there or call MyDualSVM('MNIST-13.csv',C) 
+main() function calls MyDualSVM('MNIST-13.csv',C)
+
+For Problem_2
+Either Uncomment the main function and change parameters there or call myPegasos('MNIST-13.csv',k,num_runs) for each k
+main() function calls myPegasos('MNIST-13.csv',k,num_runs). Set num_runs and k values in main()
+
+
+For Problem_3
+Either Uncomment the main function and change parameters there or call  mySoftPlus(filename, kVal) for each k
+main() function calls  mySoftPlus(filename, kVal). Set num_runs and k values in main()
